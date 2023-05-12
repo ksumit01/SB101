@@ -1,4 +1,4 @@
-package com.masai;
+package com.masai.q3;
 
 public class SchoolStudent extends Student{
 	
